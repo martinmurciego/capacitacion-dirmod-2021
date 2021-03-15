@@ -1,0 +1,22 @@
+/*imagenes peliculas*/
+/*img.img-fluid.img-thumbnail.mr-3.img-responsive {
+    object-fit: cover;
+}*/
+
+
+
+#spotify {
+    text-align: center;
+    padding-bottom: 64px;
+}
+
+.spotifyContainer {
+    display: inline-block;
+}
+
+	/*
+	.spotifyContainer iframe {
+    width: 25rem;
+    height: 30rem;
+} 
+*/
